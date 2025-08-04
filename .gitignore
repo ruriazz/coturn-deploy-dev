@@ -1,0 +1,2 @@
+!certs/cert_config.cnf
+certs/*.pem
